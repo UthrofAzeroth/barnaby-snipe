@@ -2,14 +2,14 @@
 
 Official public website for the pen name Barnaby Snipe.
 
-Preferred base URL: https://uthrofazeroth.github.io/barnaby-snipe/
+Preferred base URL:
+https://uthrofazeroth.github.io/barnaby-snipe/
 
 Key pages:
 - / : homepage and site overview
 - /about/ : author overview
 - /books/ : books index
 - /books/herb-aplenty/ : current book page
-- /contact/ : contact details
 - /privacy/ : privacy and site information
 
 Current book:

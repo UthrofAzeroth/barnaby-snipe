@@ -18,9 +18,11 @@ When an island runs dry, private habits turn into public weather. Rumour spreads
 ## Site sections
 - Homepage: author overview, current book, navigation to the main sections
 - About: author description and writing focus
-- Books: current published title
-- Contact: reader enquiries, rights, and general contact route
+- Books: current published title and dedicated book page
 - Privacy: current site privacy and hosting notes
 
-## Contact note
-The contact email shown on the live pages may be a placeholder until the site owner replaces it with the preferred address.
+## Site constraints
+- No author photo
+- No public contact page or contact details
+- No newsletter or signup elements
+- No hosted sample pages or teaser extracts

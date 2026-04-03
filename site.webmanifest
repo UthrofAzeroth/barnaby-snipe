@@ -1,10 +1,18 @@
 {
   "name": "Barnaby Snipe",
   "short_name": "Barnaby Snipe",
-  "description": "Barnaby Snipe writes dry, socially observant comic fiction about island life, human appetite, and the trouble communities make for themselves.",
+  "description": "Dry, socially observant comic fiction by Barnaby Snipe.",
   "start_url": "/barnaby-snipe/",
   "scope": "/barnaby-snipe/",
   "display": "standalone",
   "background_color": "#f7f3ec",
-  "theme_color": "#445d66"
+  "theme_color": "#445d66",
+  "icons": [
+    {
+      "src": "/barnaby-snipe/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
 }

@@ -7,7 +7,6 @@ Static GitHub Pages website for the Barnaby Snipe pen name.
 - `about/index.html` — about page
 - `books/index.html` — books index
 - `books/herb-aplenty/index.html` — current book page
-- `contact/index.html` — contact page
 - `privacy/index.html` — privacy page
 - `style.css` — shared site styles
 - `favicon.svg` — site icon
@@ -26,7 +25,13 @@ This build expects the repository already to contain:
 
 in the repository root.
 
-## Before publishing
-1. Replace the placeholder email address in `contact/index.html` and `humans.txt`
-2. If you later use a custom domain, update canonical URLs, `sitemap.xml`, and `site.webmanifest`
-3. Upload the files into the `barnaby-snipe` repository root, leaving the existing cover JPG in place
+## Locked constraints
+- no author photo
+- no public contact page or contact details
+- no newsletter or signup elements
+- no hosted sample pages or teaser extracts
+
+## Deployment
+Upload these files into the `barnaby-snipe` repository root, leaving the existing cover JPG in place.
+
+If you later use a custom domain, update canonical URLs, `sitemap.xml`, and `site.webmanifest`.
