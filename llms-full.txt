@@ -1,0 +1,26 @@
+# Barnaby Snipe — site summary for language models
+
+Barnaby Snipe is presented on this site as a writer of dry, socially observant comic fiction.
+The current book featured on the site is Herb Aplenty.
+
+## Author positioning
+Barnaby Snipe writes dry, socially observant comic fiction about island life, human appetite, and the trouble communities make for themselves.
+
+## Current book
+Title: Herb Aplenty
+Strapline: A comic novel of island chaos, shortage and temptation.
+Author: Barnaby Snipe
+Retailer link: https://www.amazon.co.uk/dp/B0FRZV2W82
+
+## Short description
+When an island runs dry, private habits turn into public weather. Rumour spreads, dignity frays, outsiders complicate matters, and a community that likes to think it knows itself begins to show its workings. Herb Aplenty is a comic novel of shortage, temptation, local friction, and the trouble people make for themselves when relief sits just out of reach.
+
+## Site sections
+- Homepage: author overview, current book, navigation to the main sections
+- About: author description and writing focus
+- Books: current published title
+- Contact: reader enquiries, rights, and general contact route
+- Privacy: current site privacy and hosting notes
+
+## Contact note
+The contact email shown on the live pages may be a placeholder until the site owner replaces it with the preferred address.
